@@ -1,8 +1,8 @@
-import "./intro.css"
-import Me from "../../img/WhiteTopSelfPose2.png"
+import "./intro.css";
+import Me from "../../img/liliethfrontpose.png";
 
 const Intro = () => {
-  return(
+  return (
     <div className="intro">
       <div className="intro-left">
         <div className="intro-left-wrapper">
@@ -18,8 +18,11 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-description">
-          
-            Experienced Product Manager | Driving Innovation, User-Centric Product Development specialized in aligning product strategy with company vision and customer needs. With a proven track record in cross-functional collaboration, defining features based on customer persona and journey requirements.
+            Experienced Product Manager | Driving Innovation, User-Centric
+            Product Development specialized in aligning product strategy with
+            company vision and customer needs. With a proven track record in
+            cross-functional collaboration, defining features based on customer
+            persona and journey requirements.
           </p>
         </div>
         {/*
@@ -79,14 +82,14 @@ const Intro = () => {
             </g>
           </g>
         </svg>
-        */ }
+        */}
       </div>
       <div className="intro-right">
         <div className="i-bg"></div>
         <img src={Me} alt="" className="i-image" />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Intro
+export default Intro;
