@@ -3,132 +3,52 @@ import fetesdelili from "./img/FetesdeLili_Redesign_Home.png";
 import volkswagencr from "./img/volkswagen-cr.png";
 import playfulcircuits from "./img/playfulcircuits_home.png";
 
-
 export const products = [
   {
     id: 1,
     img: tracfonewirelessinc,
     link: "https://www.tracfonewirelessinc.com/en/home/",
     title: "TracFone Wireless",
-    projectName: "My Account Features",
+    projectName: "My Account Creation",
     brief: [
       "TracFone Wireless, subsidiary of the largest Mexican telecommunications companies - América Móvil, is a leading provider of prepaid mobile phone services in the United States. They operate as a Mobile Virtual Network Operator (MVNO), which means they do not own the physical infrastructure but instead lease network services from major wireless carriers such as Verizon, AT&T, T-Mobile, and Sprint.",
       "The My Account project aimed to design and develop a robust and user friendly Account creation with the capability to empower customers to efficiently manage their prepaid phone services, view usage details, recharge balances, and access relevant account information. Creating a seamless and intuitive user experience enhances customer satisfaction, promotes self-service capabilities, and ultimately improves customer retention.",
       "The project involves close collaboration with cross-functional teams, including designers, developers, and quality assurance professionals, to ensure the successful implementation of the My Account capability. Through development, thorough testing, and gathering user feedback, we will deliver a reliable and feature-rich solution that aligns with business objectives and solves customer pain points.",
     ],
-    persona: {
-      heading: "",
-      background: "",
-      goalsAndChallenges: [
-        "",
-      ],
-      neads: [
-        ""
-      ],
-    },
-    customerJourney: {
-      heading: "",
-      steps: [
-        "",
-        "",
-      ]
-    },
-    method: [
-      "",
-    ],
+    pdfLink: "https://bit.ly/PrepaidPhonesMyAccountProject",
   },
   {
     id: 2,
     img: fetesdelili,
     link: "https://fetesdelili.com/",
     title: "Fetes de Lili",
-    projectName: "",
+    projectName: "Website Redesign",
     brief: [
-      "one",
-      "two",
+      "The website redesign for a party supply business called Fetes de Lili was a result of adapting to the changes in the market during and after the COVID-19 pandemic. The project goal was to evolve with the dynamics of the party supply market, including trends, customer behavior, and the digital consumer preferences. Through market research we discovered the new age range of today's parents and the growing trend of older parents with children ages 0 to 10. The rise in digital purchases made this redesign a must for 2022.",
     ],
-    persona: {
-      heading: "",
-      background: "",
-      goalsAndChallenges: [
-        "",
-      ],
-      neads: [
-        ""
-      ],
-    },
-    customerJourney: {
-      heading: "",
-      steps: [
-        "",
-        "",
-      ]
-    },
-    method: [
-      "",
-    ],
+    pdfLink: "https://bit.ly/fetesdeliliredesign",
   },
   {
     id: 3,
     img: volkswagencr,
     link: "https://www.volkswagen.cr/es.html?gclid=CjwKCAjwpayjBhAnEiwA-7ena1HyG7EyVb26dCxn5ABwnm0o_yvj0vvI1VGF6J6mQEFCsvkdwd0aCRoC1h8QAvD_BwE",
     title: "Volkswagen",
-    projectName: "",
+    projectName: "Content Management System LATAM Implementation",
     brief: [
-      "one",
-      "two",
+      "This initiative served to implement a Content Management System (CMS) fostering brand unity across all Latin American markets. Consistent brand messaging and visual identity, creates a cohesive experience for the customers. Close collaboration with stakeholders, developers, designers, and marketers from each VW Dealership is vital for the project's planning and execution. The CMS strengthens the Volkswagen Group brand recognition, elevating customer loyalty and market success.",
     ],
-    persona: {
-      heading: "",
-      background: "",
-      goalsAndChallenges: [
-        "",
-      ],
-      neads: [
-        ""
-      ],
-    },
-    customerJourney: {
-      heading: "",
-      steps: [
-        "",
-        "",
-      ]
-    },
-    method: [
-      "",
-    ],
+    pdfLink: "https://bit.ly/vwcmsimplementation",
   },
   {
     id: 4,
     img: playfulcircuits,
     link: "https://playfulcircuits.com/",
     title: "Playful Circuits",
-    projectName: "",
+    projectName: "Online Robotics Classes MVP",
     brief: [
-      "one",
-      "two",
+      "Playful Circuits is an innovative education project designed to empower kids by introducing them to engineering thinking and basic programming skills. Through interactive group lessons conducted via Zoom, children experience a dynamic and collaborative learning method. With a maximum of 6 to 10 students per class, this ensures personalized attention and active participation.",
+      "Using popular tools like CodeSpark, LEGO Education, and Scratch, Playful Circuits creates a stimulating environment where learning becomes a playful adventure. Instructors get to guide students through engaging activities, enabling them to develop a strong foundation in programming while fostering critical thinking and problem-solving abilities.",
     ],
-    persona: {
-      heading: "",
-      background: "",
-      goalsAndChallenges: [
-        "",
-      ],
-      neads: [
-        ""
-      ],
-    },
-    customerJourney: {
-      heading: "",
-      steps: [
-        "",
-        "",
-      ]
-    },
-    method: [
-      "",
-    ],
+    pdfLink: "https://bit.ly/playfulcircuitsMVP",
   },
- 
 ];
