@@ -12,9 +12,9 @@ const Intro = () => {
             <div className="intro-title-wrapper">
               <div className="i-title-item">Product Manager</div>
               <div className="i-title-item">UI/UX Designer</div>
-              <div className="i-title-item">Cosplay Enthusiast</div>
-              <div className="i-title-item">Business Analyst</div>
-              <div className="i-title-item">Content Creator</div>
+              <div className="i-title-item">Marketing Strategy</div>
+              <div className="i-title-item">Systems Engineer</div>
+              <div className="i-title-item">Coding</div>
             </div>
           </div>
           <p className="i-description">
