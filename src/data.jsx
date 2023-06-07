@@ -11,9 +11,9 @@ export const products = [
     title: "TracFone Wireless",
     projectName: "My Account Creation",
     brief: [
-      "TracFone Wireless, subsidiary of the largest Mexican telecommunications companies - América Móvil, is a leading provider of prepaid mobile phone services in the United States. They operate as a Mobile Virtual Network Operator (MVNO), which means they do not own the physical infrastructure but instead lease network services from major wireless carriers such as Verizon, AT&T, T-Mobile, and Sprint.",
-      "The My Account project aimed to design and develop a robust and user friendly Account creation with the capability to empower customers to efficiently manage their prepaid phone services, view usage details, recharge balances, and access relevant account information. Creating a seamless and intuitive user experience enhances customer satisfaction, promotes self-service capabilities, and ultimately improves customer retention.",
-      "The project involves close collaboration with cross-functional teams, including designers, developers, and quality assurance professionals, to ensure the successful implementation of the My Account capability. Through development, thorough testing, and gathering user feedback, we will deliver a reliable and feature-rich solution that aligns with business objectives and solves customer pain points.",
+      "TracFone Wireless, subsidiary of América Móvil, is a leading provider of prepaid mobile phone services in the United States. They operate as a Mobile Virtual Network Operator (MVNO), which means they do not own the physical infrastructure but instead lease network services from major wireless carriers such as Verizon, AT&T, T-Mobile, and Sprint.",
+      "As the head systems engineer for the My Account project I aimed to creat an user friendly Account panel with the capability to empower customers to efficiently manage their prepaid phone services, view usage details, recharge balances, and access relevant account information. This user focused project promotes self-service capabilities, and ultimately improves customer retention.",
+      "Close collaboration with cross-functional teams, (designers, developers, and quality assurance), ensured a successful implementation. Our team worked together on sprints that aligned with business objectives and solved customer pain points.",
     ],
     pdfLink: "https://bit.ly/PrepaidPhonesMyAccountProject",
   },
@@ -49,6 +49,6 @@ export const products = [
       "Playful Circuits is an innovative education project designed to empower kids by introducing them to engineering thinking and basic programming skills. Through interactive group lessons conducted via Zoom, children experience a dynamic and collaborative learning method. With a maximum of 6 to 10 students per class, this ensures personalized attention and active participation.",
       "Using popular tools like CodeSpark, LEGO Education, and Scratch, Playful Circuits creates a stimulating environment where learning becomes a playful adventure. Instructors get to guide students through engaging activities, enabling them to develop a strong foundation in programming while fostering critical thinking and problem-solving abilities.",
     ],
-    pdfLink: "https://bit.ly/playfulcircuitsMVP",
+    pdfLink: "https://youtu.be/oOTV_dCfeAE",
   },
 ];
