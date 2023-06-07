@@ -18,8 +18,11 @@ export default function Contact() {
             </div>
             <div className="c-info-item">
               <ContactIcon contactType="linkedIn" />
-              <a href="www.linkedin.com/in/liliethbetancourt" target="_blank">
-                www.linkedin.com/in/liliethbetancourt
+              <a
+                href="https://www.linkedin.com/in/liliethbetancourt/"
+                target="_blank"
+              >
+                https://www.linkedin.com/in/liliethbetancourt/
               </a>
             </div>
           </div>
