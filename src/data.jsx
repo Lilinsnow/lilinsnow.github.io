@@ -37,7 +37,7 @@ export const products = [
     brief: [
       "This initiative served to implement a Content Management System (CMS) fostering brand unity across all Latin American markets. Consistent brand messaging and visual identity, creates a cohesive experience for the customers. Close collaboration with stakeholders, developers, designers, and marketers from each VW Dealership is vital for the project's planning and execution. The CMS strengthens the Volkswagen Group brand recognition, elevating customer loyalty and market success.",
     ],
-    pdfLink: "https://bit.ly/vwcmsimplementation",
+    pdfLink: "https://prezi.com/v/view/LxDmQDtlcrT6NfkdASoZ/",
   },
   {
     id: 4,
