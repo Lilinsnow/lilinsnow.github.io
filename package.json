@@ -2,7 +2,7 @@
   "name": "vite",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://lilinsnow.github.io/",
+  "homepage": "https://liliethbetancourt.com/",
   "type": "module",
   "scripts": {
     "dev": "vite",
