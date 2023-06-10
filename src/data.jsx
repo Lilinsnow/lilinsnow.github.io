@@ -12,7 +12,7 @@ export const products = [
     projectName: "My Account Creation",
     brief: [
       "TracFone Wireless, subsidiary of América Móvil, is a leading provider of prepaid mobile phone services in the United States. They operate as a Mobile Virtual Network Operator (MVNO), which means they do not own the physical infrastructure but instead lease network services from major wireless carriers such as Verizon, AT&T, T-Mobile, and Sprint.",
-      "As the head systems engineer for the My Account project I aimed to creat an user friendly Account panel with the capability to empower customers to efficiently manage their prepaid phone services, view usage details, recharge balances, and access relevant account information. This user focused project promotes self-service capabilities, and ultimately improves customer retention.",
+      "As head systems engineer I aimed to create a user friendly Account panel to empower customers to efficiently manage their services and ultimately improve customer retention.",
       "Close collaboration with cross-functional teams, (designers, developers, and quality assurance), ensured a successful implementation. Our team worked together on sprints that aligned with business objectives and solved customer pain points.",
     ],
     pdfLink: "https://bit.ly/PrepaidPhonesMyAccountProject",
