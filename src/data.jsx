@@ -37,8 +37,7 @@ export const products = [
     brief: [
       "This initiative served to implement a Content Management System (CMS) fostering brand unity across all Latin American markets. Consistent brand messaging and visual identity, creates a cohesive experience for the customers. Close collaboration with stakeholders, developers, designers, and marketers from each VW Dealership is vital for the project's planning and execution. The CMS strengthens the Volkswagen Group brand recognition, elevating customer loyalty and market success.",
     ],
-    pdfLink:
-      "https://drive.google.com/file/d/15yV6449ibiRFTkzSgTnSzk5elKU4E6PM/view?usp=sharing",
+    pdfLink: "https://bit.ly/vwcmsimplementation",
   },
   {
     id: 4,
@@ -50,7 +49,6 @@ export const products = [
       "Playful Circuits is an innovative education project designed to empower kids by introducing them to engineering thinking and basic programming skills. Through interactive group lessons conducted via Zoom, children experience a dynamic and collaborative learning method. With a maximum of 6 to 10 students per class, this ensures personalized attention and active participation.",
       "Using popular tools like CodeSpark, LEGO Education, and Scratch, Playful Circuits creates a stimulating environment where learning becomes a playful adventure. Instructors get to guide students through engaging activities, enabling them to develop a strong foundation in programming while fostering critical thinking and problem-solving abilities.",
     ],
-    pdfLink:
-      "https://drive.google.com/file/d/1C7QW0Hb9huLXIsrDspUZbC15GVG0obih/view?usp=sharing",
+    pdfLink: "https://bit.ly/playfulcircuitsMVP",
   },
 ];
