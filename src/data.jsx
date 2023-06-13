@@ -2,7 +2,8 @@ import tracfonewirelessinc from "./img/tracfonewireless.jpg";
 import fetesdelili from "./img/FetesdeLili_Redesign_Home.jpg";
 import volkswagencr from "./img/volkswagen-cr.jpg";
 import playfulcircuits from "./img/playfulcircuits_home.jpg";
-
+import tracfonecsjourney from "./img/tracfonecustomerjourney.jpg";
+import fetesdeliliredesign from "./img/Fetes de Lili Redesign.jpg";
 export const products = [
   {
     id: 1,
@@ -15,7 +16,7 @@ export const products = [
       "As head systems engineer I aimed to create a user friendly Account panel to empower customers to efficiently manage their services and ultimately improve customer retention.",
       "Close collaboration with cross-functional teams, (designers, developers, and quality assurance), ensured a successful implementation. Our team worked together on sprints that aligned with business objectives and solved customer pain points.",
     ],
-    pdfLink: "https://bit.ly/PrepaidPhonesMyAccountProject",
+    pdfLink: tracfonecsjourney,
   },
   {
     id: 2,
@@ -26,7 +27,7 @@ export const products = [
     brief: [
       "The website redesign for a party supply business called Fetes de Lili was a result of adapting to the changes in the market during and after the COVID-19 pandemic. The project goal was to evolve with the dynamics of the party supply market, including trends, customer behavior, and the digital consumer preferences. Through market research we discovered the new age range of today's parents and the growing trend of older parents with children ages 0 to 10. The rise in digital purchases made this redesign a must for 2022.",
     ],
-    pdfLink: "https://bit.ly/fetesdeliliredesign",
+    pdfLink: fetesdeliliredesign,
   },
   {
     id: 3,
