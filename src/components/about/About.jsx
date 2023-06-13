@@ -1,7 +1,7 @@
 import "./about.css";
 import SelfImg from "../../img/CapandGown_Pexels_byStanleyMorales.jpg";
-import UF from "../../img/Uf.jpg";
-import FIU from "../../img/FIU_Engineering_and_Computing.jpg";
+import UF from "../../img/Uf.png";
+import FIU from "../../img/FIU_Engineering_and_Computing.png";
 import ESAT from "../../img/esat_valencia.jpg";
 
 const About = () => {
