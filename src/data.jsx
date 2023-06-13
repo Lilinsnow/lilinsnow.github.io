@@ -1,7 +1,7 @@
-import tracfonewirelessinc from "./img/tracfonewireless.png";
-import fetesdelili from "./img/FetesdeLili_Redesign_Home.png";
-import volkswagencr from "./img/volkswagen-cr.png";
-import playfulcircuits from "./img/playfulcircuits_home.png";
+import tracfonewirelessinc from "./img/tracfonewireless.jpg";
+import fetesdelili from "./img/FetesdeLili_Redesign_Home.jpg";
+import volkswagencr from "./img/volkswagen-cr.jpg";
+import playfulcircuits from "./img/playfulcircuits_home.jpg";
 
 export const products = [
   {
@@ -37,7 +37,7 @@ export const products = [
     brief: [
       "This initiative served to implement a Content Management System (CMS) fostering brand unity across all Latin American markets. Consistent brand messaging and visual identity, creates a cohesive experience for the customers. Close collaboration with stakeholders, developers, designers, and marketers from each VW Dealership is vital for the project's planning and execution. The CMS strengthens the Volkswagen Group brand recognition, elevating customer loyalty and market success.",
     ],
-    pdfLink: "https://bit.ly/vwcmsimplementation",
+    pdfLink: "https://bit.ly/vwCMSproject",
   },
   {
     id: 4,
