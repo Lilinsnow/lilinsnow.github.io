@@ -1,0 +1,31 @@
+# Lilieth Ordoñez Betancourt
+
+> Industrial and systems engineer and educator based in Miami, Florida. More than ten years teaching robotics, engineering and programming in classrooms in Florida and France and live online to K–12 students. Open to roles in EdTech and engineering education that bring together teaching, process improvement, business analysis and AI adoption.
+
+## Teaching
+- Robotics and engineering instruction with LEGO Education, Mindstorms EV3, FIRST LEGO League, Scratch and CodeSpark.
+- Head of Robotics Program, Montessori Academy of Broward, Pembroke Pines, FL (2012–2016).
+- Robotics Program Founder & Instructor, École Élémentaire Jules Ferry, Aix-en-Provence, France (2016–2017), taught entirely in French.
+- Online Instructor, Varsity Tutors (2020–present): engineering, math, science and programming; 4.9/5.0 rating; experience with students with ADHD and dyslexia.
+- Founder, Playful Circuits (2020–2023): live online K–12 robotics and programming teaching service (https://playfulcircuits.com).
+- STEM Mentor, ASTI Foundation Stem Talent Girl program, mentoring high school girls pursuing engineering.
+- Teaching approach: students work the way engineers do (define the problem, design for a real person, build, test, adjust), with a focus on girls in engineering.
+
+## Engineering and operations
+- Systems Improvement Engineer, TracFone Wireless (América Móvil), 2007–2010: led the design and launch of online My Account self-service and the QA/UAT team.
+- CMS Manager (contract), Volkswagen Group, 2007: moved a dealership network onto a single CMS.
+- Operations Manager & Co-Founder, Hip Dot Media, 2012–present: for Vesta-z (2024–present), replaced manual reading of customer PDF requests with automated extraction; turnaround went from days to about an hour.
+
+## Education and credentials
+- B.S., Industrial & Systems Engineering, Florida International University (2006).
+- B.S., Advertising, Minor in Spanish, University of Florida (1999).
+- Postgraduate Diploma (350 hours), UX/UI, Digital Marketing & Front-End Web Development, ESAT, Valencia, Spain (2022).
+- FLDOE Statement of Eligibility, Engineering & Technology Education 6–12; Lean Six Sigma Green Belt (in progress).
+- Languages: English, Spanish, French (B2).
+
+## Links
+- Website: https://liliethbetancourt.com/
+- Resume (PDF): https://liliethbetancourt.com/Lilieth_Betancourt_Resume.pdf
+- Teaching philosophy (PDF): https://liliethbetancourt.com/Lilieth_Betancourt_Teaching_Philosophy.pdf
+- LinkedIn: https://www.linkedin.com/in/liliethbetancourt
+- Contact: lilieth.betancourt1@gmail.com
